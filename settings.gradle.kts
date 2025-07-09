@@ -4,7 +4,7 @@ plugins {
 rootProject.name = "multi-module-lecture"
 
 include("bank-api")
-//include("bank-core")
-//include("bank-domain")
+include("bank-core")
+include("bank-domain")
 //include("bank-event")
 //include("bank-monitoring")
