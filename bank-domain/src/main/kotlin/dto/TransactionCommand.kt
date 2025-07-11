@@ -1,6 +1,6 @@
 package dto
 
-import com.lecture.bank.domain.entity.TransactionType
+import com.jisu.bank.domain.entity.TransactionType
 import java.math.BigDecimal
 
 data class TransactionCommand(
